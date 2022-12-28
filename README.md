@@ -10,4 +10,4 @@ To download manga,
 * Make sure that Node.js and npm are installed
 * Run `npm start` in the script folder
 
-> :warning: **Entire manga is appeoximately ~3.4 Gb**
+> :warning: **Entire manga is approximately ~3.4 Gb**
